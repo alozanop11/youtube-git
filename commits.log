@@ -1,0 +1,98 @@
+commit 3eb64f4d0564ea686a2dc35e852157917ae78aba
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 23:03:05 2023 -0600
+
+    Agregando 2 párrafos
+
+commit b9489e47935a681224547f29ee01153eeaa64f9b
+Merge: 1f2502a afe89de
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 23:00:18 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 1f2502ac3d5825cdb7c7d9d4a81eec4b2ee5059d
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 22:41:56 2023 -0600
+
+    Agregando estaciones del año con fehca de inicio
+
+commit afe89de35cec072b869783ef07c309b2d02b335d
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 22:41:56 2023 -0600
+
+    Agregando las estaciones del año
+
+commit a5714ae1d2d2fd5ef1d61e8969011a539883f402
+Merge: 9373b42 7c3e3d6
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 19:10:51 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 7c3e3d665a2f737fc61ad6ecb95f10538004907a
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 19:01:31 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 9373b420378c9cabc2f791f8b001f99c7994315a
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 18:58:03 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 5ecb20f6edcc6763883d14ccd942d6d5b26fa6b2
+Merge: 852ba18 daae8f0
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 18:45:43 2023 -0600
+
+    Merge branch 'js'
+
+commit daae8f021b115e83a101dc2f88c4ee2da4fbd29e
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 18:40:30 2023 -0600
+
+    Creadno index.js
+
+commit 852ba182530a273a76665d0edb0dc7d86de18aaf
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 18:34:01 2023 -0600
+
+    Creando style.css
+
+commit bfd550e56b67323594fd65ba66b2846f62db50b2
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 18:28:14 2023 -0600
+
+    Creando index.html
+
+commit 332ca7f6576c33f760ff40fcac32fd653117920e
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 18:12:19 2023 -0600
+
+    Ignorando archivos .exe
+
+commit f07d97f55d59f9082dfec58b9edce14c2520746b
+Author: alozanop11 <135061606+alozanop11@users.noreply.github.com>
+Date:   Tue May 30 17:39:44 2023 -0600
+
+    Creando licencia del respositorio
+
+commit 3cf5b1e4f6f0c32eb8d2b8873c147bea9a44e30f
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 17:18:14 2023 -0600
+
+    Agregando más contenido al README
+
+commit 67c611512d62b99a81be28b01ca21256b33454a5
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 16:55:38 2023 -0600
+
+    Agregando contenido inicial al README
+
+commit d95f961daccf7086362e436e53484017bee4ada0
+Author: Abdiel Lozano <golfran.lozano@gmail.com>
+Date:   Tue May 30 16:48:59 2023 -0600
+
+    Primer commit 😀
